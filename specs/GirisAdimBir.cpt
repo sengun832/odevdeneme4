@@ -1,0 +1,7 @@
+
+#Alışverişe Başla Butonuna Tıkla
+*"2" saniye kadar bekle
+*Id "com.ozdilek.ozdilekteyim:id/btnRemindLater" li elementi bul ve tıkla
+*"2" saniye kadar bekle
+*Id "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" li elementi bul ve tıkla
+*"4" saniye kadar bekle
